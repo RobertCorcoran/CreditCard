@@ -1,7 +1,6 @@
 import javax.swing.JOptionPane; 
 
-//this line is to see if changes went to github
-
+// This line is to see if changes went to github
 
 /*
    this program uses two void methods.
